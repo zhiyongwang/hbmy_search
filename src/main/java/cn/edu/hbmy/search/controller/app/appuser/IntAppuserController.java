@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import cn.edu.hbmy.search.controller.base.BaseController;
 import cn.edu.hbmy.search.services.system.appuser.AppuserService;
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.PageData;
 import cn.edu.hbmy.search.util.Tools;
 

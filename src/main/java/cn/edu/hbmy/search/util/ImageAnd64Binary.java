@@ -1,13 +1,13 @@
 package cn.edu.hbmy.search.util;
 
+import sun.misc.BASE64Decoder;
+import sun.misc.BASE64Encoder;
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-
-import Decoder.BASE64Decoder;
-import Decoder.BASE64Encoder;
 
 
 public class ImageAnd64Binary {

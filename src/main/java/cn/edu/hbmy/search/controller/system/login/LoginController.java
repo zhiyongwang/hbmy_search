@@ -27,7 +27,6 @@ import cn.edu.hbmy.search.entity.system.Menu;
 import cn.edu.hbmy.search.entity.system.Role;
 import cn.edu.hbmy.search.services.system.menu.MenuService;
 import cn.edu.hbmy.search.services.system.role.RoleService;
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.Const;
 import cn.edu.hbmy.search.util.DateUtil;
 import cn.edu.hbmy.search.util.PageData;

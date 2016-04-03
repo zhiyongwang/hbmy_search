@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import cn.edu.hbmy.search.services.system.appuser.AppuserService;
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.Const;
 import cn.edu.hbmy.search.util.SmsUtil;
 import cn.edu.hbmy.search.util.Tools;

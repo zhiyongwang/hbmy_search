@@ -2,19 +2,13 @@ package cn.edu.hbmy.search.dao;
 
 import java.util.List;
 
-import javax.annotation.Resource;
-
 import org.apache.ibatis.session.ExecutorType;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
-import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.stereotype.Repository;
 
 @Repository("daoSupport")
 public class DaoSupport implements DAO {
-
-	@Resource(name = "sqlSessionTemplate")
-	private SqlSessionTemplate sqlSessionTemplate;
 	
 	/**
 	 * 保存对象

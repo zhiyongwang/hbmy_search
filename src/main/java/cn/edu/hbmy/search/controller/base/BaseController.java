@@ -9,7 +9,6 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import org.springframework.web.servlet.ModelAndView;
 
 import cn.edu.hbmy.search.entity.Page;
-import cn.edu.hbmy.search.util.Logger;
 import cn.edu.hbmy.search.util.UuidUtil;
 
 public class BaseController {

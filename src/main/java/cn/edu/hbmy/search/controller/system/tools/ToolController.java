@@ -10,14 +10,12 @@ import java.util.Map;
 
 import cn.edu.hbmy.search.controller.base.BaseController;
 import cn.edu.hbmy.search.util.Const;
-import cn.edu.hbmy.search.util.MapDistance;
 import cn.edu.hbmy.search.util.PageData;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.PathUtil;
 import cn.edu.hbmy.search.util.TwoDimensionCode;
 

@@ -22,7 +22,6 @@ import org.springframework.web.servlet.ModelAndView;
 import cn.edu.hbmy.search.util.Const;
 import cn.edu.hbmy.search.util.DateUtil;
 import cn.edu.hbmy.search.util.DelAllFile;
-import cn.edu.hbmy.search.util.Freemarker;
 import cn.edu.hbmy.search.util.PageData;
 import cn.edu.hbmy.search.util.PathUtil;
 

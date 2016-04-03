@@ -15,7 +15,6 @@ import cn.edu.hbmy.search.controller.base.BaseController;
 import cn.edu.hbmy.search.util.DelAllFile;
 import cn.edu.hbmy.search.util.FileDownload;
 import cn.edu.hbmy.search.util.FileZip;
-import cn.edu.hbmy.search.util.Freemarker;
 import cn.edu.hbmy.search.util.PageData;
 import cn.edu.hbmy.search.util.PathUtil;
 

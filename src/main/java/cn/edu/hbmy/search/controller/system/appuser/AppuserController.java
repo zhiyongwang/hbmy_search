@@ -31,7 +31,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import cn.edu.hbmy.search.entity.system.Role;
 import cn.edu.hbmy.search.services.system.role.RoleService;
-import cn.edu.hbmy.search.util.AppUtil;
 
 /** 
  * 类名称：AppuserController

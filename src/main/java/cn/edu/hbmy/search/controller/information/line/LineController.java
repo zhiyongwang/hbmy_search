@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.Map;
 
 import javax.annotation.Resource;
-import javax.servlet.http.HttpSession;
 
 import cn.edu.hbmy.search.controller.base.BaseController;
 import cn.edu.hbmy.search.util.Const;
@@ -27,7 +26,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import cn.edu.hbmy.search.entity.Page;
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.ObjectExcelView;
 import cn.edu.hbmy.search.services.information.line.LineService;
 

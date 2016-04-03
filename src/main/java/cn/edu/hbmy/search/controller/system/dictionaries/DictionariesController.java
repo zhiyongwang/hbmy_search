@@ -19,8 +19,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import cn.edu.hbmy.search.util.AppUtil;
-
 /**
  * 类名称：DictionariesController
  * 创建人：FH

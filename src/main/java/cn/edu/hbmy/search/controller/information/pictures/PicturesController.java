@@ -28,7 +28,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import cn.edu.hbmy.search.controller.base.BaseController;
 import cn.edu.hbmy.search.entity.Page;
-import cn.edu.hbmy.search.util.AppUtil;
 import cn.edu.hbmy.search.util.DateUtil;
 import cn.edu.hbmy.search.util.FileUpload;
 import cn.edu.hbmy.search.util.ObjectExcelView;
